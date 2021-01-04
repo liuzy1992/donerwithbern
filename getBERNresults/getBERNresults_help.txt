@@ -1,0 +1,8 @@
+Description
+    getBERNresults.sh is used to get NER results from BERN API for a PubMed text (title & abstract). wget should be installed first to run this script.
+
+Usage
+    ./getBERNresults.sh <PMID>
+
+Example
+    ./getBERNresults.sh 29446767

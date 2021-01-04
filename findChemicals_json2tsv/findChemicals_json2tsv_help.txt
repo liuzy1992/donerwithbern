@@ -1,0 +1,8 @@
+Description
+    findChemicals_json2tsv.py is used to filter chemical entities form BERN NER results and convert JSON format file to TSV format.
+
+Usage
+    ./findChemicals_json2tsv.py <input> > <output>
+
+Example
+    ./findChemicals_json2tsv.py test_data/30852478.json > 30852478.tsv
